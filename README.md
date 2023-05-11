@@ -1,8 +1,22 @@
 <h1 align="center">Hi 👋, I'm Roland Stewart</h1>
-<h3 align="center">I am writing to you in reference to the job posting you
-have made.
-I believe I would be an excellent fit for this position since I
-am a software engineer wit</h3>
+<h3>I am a Senior Full Stack Developer.
+•I have 4+ years of experiece in developing
+Android System App and User App in Meitu inc.
+•I have 3+ years of experiece in designing and
+developing Web App by using PHP(CI, Laravel),
+Node, React, Vue, Angular.
+•For 3 years I focused on React Native.
+•As a software engineer, I'm familiar with
+GitHub, GitLab, etc for version control and Jira,
+Trello, Project of office for tasks management.
+Also, I'm familiar with several kinds of testing
+systems. I have been exposed to a wide variety of
+technologies in my career and consider myself to
+be very adaptable. Because of my breadth of
+experience, I believe that I would make an
+excellent addition to your team.
+Sincerely
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rolandstewart&label=Profile%20views&color=0e75b6&style=flat" alt="rolandstewart" /> </p>
 
