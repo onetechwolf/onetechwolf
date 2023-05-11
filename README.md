@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roland Stewart</h1>
-<h3 align="center">A professional fullstack developer from United State</h3>
+<h3 align="center">I am writing to you in reference to the job posting you
+have made.
+I believe I would be an excellent fit for this position since I
+am a software engineer wit</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rolandstewart&label=Profile%20views&color=0e75b6&style=flat" alt="rolandstewart" /> </p>
 
