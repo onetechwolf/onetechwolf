@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roland Stewart</h1>
 <h4>I am a Senior Full Stack Developer.
-•I have 4+ years of experiece in developing
+•I have 10+ years of experiece in developing
 Android System App and User App in Meitu inc.
-•I have 3+ years of experiece in designing and
+•I have 4+ years of experiece in designing and
 developing Web App by using PHP(CI, Laravel),
 Node, React, Vue, Angular.
+*For 3 years I mastered native android working on Meitu inc.
 •For 3 years I focused on React Native.
 •As a software engineer, I'm familiar with
 GitHub, GitLab, etc for version control and Jira,
