@@ -5,7 +5,7 @@ Android System App and User App in Meitu inc.<br/>
 •I have 4+ years of experiece in designing and
 developing Web App by using PHP(CI, Laravel),
 Node, React, Vue, Angular.<br/>
-*For 3 years I mastered native android working on Meitu inc.<br/>
+•For 3 years I mastered native android working on Meitu inc.<br/>
 •For 3 years I focused on React Native.<br/>
 •As a software engineer, I'm familiar with
 GitHub, GitLab, etc for version control and Jira,
