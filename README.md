@@ -2,7 +2,7 @@
 <h4>I am a Senior Full Stack Developer who has 10+ years of experience in developing.<br/>
 •I have 3 years of experiece in developing
 Android System App and User App in Meitu inc.<br/>
-•I have 4+ years of experiece in designing and
+•I have 4 years of experiece in designing and
 developing Web App by using PHP(CI, Laravel),
 Node, React, Vue, Angular.<br/>
 •For 3 years I focused on React Native.<br/>
