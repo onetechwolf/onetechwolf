@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Full stack Developer</h1>
+<h1 align="center">Hi 👋, I'm a Full Stack Developer | CTO</h1>
 <h4>I am a Senior Full Stack Developer.<br/>
 •I have 10+ years of experiece in developing
 Android System App and User App in Meitu inc.<br/>
