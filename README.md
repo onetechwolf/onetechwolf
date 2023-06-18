@@ -1,16 +1,6 @@
 <h1 align="center">👋 Senior Full Stack Developer | CTO 👋</h1>
-<h4>I am a Senior Full Stack Developer who has 12+ years of experience in developing.<br/>
-✅ Most Reliable Freelancer: Working for the past 11 years and have completed 100+ exceptional projects with 61 Recommendations!<br/>
-✅ Won Multiple Awards like <br/>
-   &nbsp;&nbsp;★ Best React JS Developer, <br/>
-   &nbsp;&nbsp;★ Best WordPress Developer, <br/>
-   &nbsp;&nbsp;★ Best WooCommerce Developer, <br/>
-   &nbsp;&nbsp;★ Best Shopify Developer, <br/>
-   &nbsp;&nbsp;★ Best Laravel Developer, <br/>
-✅ First to Upgrade PHP Version to Latest, ★ #1 in Customisation of WordPress Websites.<br/>
-✅ Excellent communication skill<br/>
-✅ 61+ Client Recommendations<br/>
-✅ Preferred and Verified Freelancer: The elite 1% out of 60M+ Freelancers<br/>
+<h4>As a highly motivated and detail-oriented professional with 12+ years of experience in software developing, I am dedicated to delivering exceptional results. With a proven track record of success in technical skills, I have developed Teamwork, Adaptability, Time management, Leadership, Problem-solving, Creativity, Emotional intelligence, Positive attitude, Work ethic that allow me to work well both independently and as part of a team. As a quick learner with excellent problem-solving skills, I am always willing to take on new challenges and learn new things. If you're looking for a reliable and hardworking individual who is passionate about programming, then look no further than me.
+
 Sincerely
 </h4>
 
