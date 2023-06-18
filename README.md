@@ -2,11 +2,11 @@
 <h4>I am a Senior Full Stack Developer who has 12+ years of experience in developing.<br/>
 ✅ Most Reliable Freelancer: Working for the past 11 years and have completed 100+ exceptional projects with 61 Recommendations!<br/>
 ✅ Won Multiple Awards like <br/>
-   ★ Best React JS Developer, <br/>
-   ★ Best WordPress Developer, <br/>
-   ★ Best WooCommerce Developer, <br/>
-   ★ Best Shopify Developer, <br/>
-   ★ Best Laravel Developer, <br/>
+   &nbsp;&nbsp;★ Best React JS Developer, <br/>
+   &nbsp;&nbsp;★ Best WordPress Developer, <br/>
+   &nbsp;&nbsp;★ Best WooCommerce Developer, <br/>
+   &nbsp;&nbsp;★ Best Shopify Developer, <br/>
+   &nbsp;&nbsp;★ Best Laravel Developer, <br/>
 ✅ First to Upgrade PHP Version to Latest, ★ #1 in Customisation of WordPress Websites.<br/>
 ✅ Excellent communication skill<br/>
 ✅ 61+ Client Recommendations<br/>
