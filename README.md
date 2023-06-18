@@ -1,20 +1,13 @@
 <h1 align="center">👋 Senior Full Stack Developer | CTO 👋</h1>
-<h4>I am a Senior Full Stack Developer who has 10+ years of experience in developing.<br/>
-• I have 3 years of experiece in developing
-Android System App and User App in Meitu inc.<br/>
-• I have 4 years of experiece in designing and
-developing Web App by using PHP(CI, Laravel),
-Node, React, Vue, Angular.<br/>
-• For 3 years I focused on React Native, Flutter.<br/>
-• As a software engineer, I'm familiar with
-GitHub, GitLab, etc for version control and Jira,
-Trello, Project of office for tasks management.
-Also, I'm familiar with several kinds of testing
-systems. I have been exposed to a wide variety of
-technologies in my career and consider myself to
-be very adaptable. Because of my breadth of
-experience, I believe that I would make an
-excellent addition to your team.
+<h4>I am a Senior Full Stack Developer who has 12+ years of experience in developing.<br/>
+✅ Most Reliable Freelancer: Working for the past 11 years and have completed 100+ exceptional projects with 61 Recommendations!
+✅ Won Multiple Awards like ★ Best React JS Developer ★ Best WordPress Developer, ★ Best WooCommerce Developer, 
+✅ Best Shopify Developer, 
+✅ Best Laravel Developer, 
+✅ First to Upgrade PHP Version to Latest, ★ #1 in Customisation of WordPress Websites.
+✅ Excellent communication skill
+✅ 61+ Client Recommendations
+✅ Preferred and Verified Freelancer: The elite 1% out of 60M+ Freelancers
 Sincerely
 </h4>
 
